@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# other sources
+Content/PCGExamples/Tutorial/*
+Content/PCGExamples/Maps/TutorialMap.umap
