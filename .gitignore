@@ -78,3 +78,5 @@ DerivedDataCache/*
 # other sources
 Content/PCGExamples/Tutorial/*
 Content/PCGExamples/Maps/TutorialMap.umap
+Content/EuropeanBeech/*
+Content/Fab/*
